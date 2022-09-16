@@ -20,8 +20,6 @@ public class Main {
                 System.out.printf("Hi, " + t[0] + "!");
             case "ru":
                 System.out.printf("Привет, " + t[0] + "!");
-            default:
-                System.out.printf("Szia, " + t[0] + "!");
         }
     }
 }
